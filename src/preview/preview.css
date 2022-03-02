@@ -1,0 +1,12 @@
+.preview{
+    flex: 9;
+    margin-top: 1rem;
+}
+.img{
+    width: 20%;
+    height: 20%;
+}
+
+.label{
+    cursor: pointer;
+}
